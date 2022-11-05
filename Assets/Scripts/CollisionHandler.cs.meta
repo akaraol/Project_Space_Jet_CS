@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 37909ab8d1135ef4daa505b227b703d7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - landingMaterial: {fileID: 2100000, guid: 0bf557c511b5ff54481e9a1b15c0bfbd, type: 2}
+  - crashSound: {instanceID: 0}
+  - victorySound: {instanceID: 0}
+  - crashParticle: {instanceID: 0}
+  - victoryParticle: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
