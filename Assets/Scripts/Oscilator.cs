@@ -12,6 +12,7 @@ public class Oscilator : MonoBehaviour
 
     void Start()
     {
+        //deneme
      startingPosition = transform.position;  
     }
 
